@@ -2,7 +2,6 @@ body{
 	background: url("../imagenes/bgfragmentos.jpg") no-repeat center center fixed;
 	background-size: cover;
 	margin: auto;
-	height: 100%;
 	text-align: center;
 	overflow-x: none !important;
 }
