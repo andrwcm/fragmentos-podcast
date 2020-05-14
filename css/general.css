@@ -1,0 +1,115 @@
+body{
+	background: url("../imagenes/bgfragmentos.jpg") no-repeat center center fixed;
+	background-size: cover;
+	margin: auto;
+	height: 100%;
+	text-align: center;
+}
+
+h1{
+	display: block;
+	width: 294px;
+	margin: 80px auto 40px;
+	height: 64px;
+	background: url("../imagenes/fragmentospodcast_logo.png") no-repeat center center;
+	background-size: cover;
+	font-size: 1px;
+	color: rgba(0,0,0,0);
+}
+
+.descripcion{
+	width: 374px;
+	height: 72px;
+	margin: 60px auto;
+	background: url("../imagenes/fragmentosopodcast_descripcion.png") no-repeat center center;
+	background-size: cover;
+	font-size: 1px;
+	color: rgba(0,0,0,0);
+}
+
+ul.botones{
+	margin: auto;
+	padding: 0px;
+	width: 440px;
+	height: auto;
+}
+
+ul.botones a{
+	text-decoration: none;
+}
+
+ul.botones a li{
+	margin: 9px;
+	width: 198px;
+	height: 48px;
+	display: inline-block;
+	list-style: none;
+	font-size: 1px;
+	color: rgba(0,0,0,0);
+}
+
+li.spotify{
+	background: url("../imagenes/fragmentospodcast_spotify.png") no-repeat center center;
+	background-size: cover;
+}
+
+li.apple{
+	background: url("../imagenes/fragmentospodcast_apple.png") no-repeat center center;
+	background-size: cover;
+}
+
+li.anchor{
+	background: url("../imagenes/fragmentospodcast_anchor.png") no-repeat center center;
+	background-size: cover;
+}
+
+li.youtube{
+	background: url("../imagenes/fragmentospodcast_youtube.png") no-repeat center center;
+	background-size: cover;
+}
+
+.siguenos{
+	width: 187px;
+	height: 42px;
+	margin: 60px auto 30px;
+	background: url("../imagenes/siguenos.png") no-repeat center center;
+	background-size: cover;
+}
+
+
+ul.redes{
+	margin: auto;
+	padding: 0px;
+	width: 218px;
+	height: auto;
+}
+
+ul.redes a{
+	text-decoration: none;
+}
+
+ul.redes a li{
+	margin: 9px;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	list-style: none;
+	font-size: 1px;
+	color: rgba(0,0,0,0);
+}
+
+li.twitter{
+	background: url("../imagenes/twitter.png") no-repeat center center;
+	background-size: cover;
+}
+
+li.facebook{
+	background: url("../imagenes/facebook.png") no-repeat center center;
+	background-size: cover;
+}
+
+
+li.insta{
+	background: url("../imagenes/instagram.png") no-repeat center center;
+	background-size: cover;
+}
