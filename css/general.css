@@ -6,6 +6,10 @@ body{
 	overflow-x: none !important;
 }
 
+.hidden{
+	display: none !important;
+}
+
 h1{
 	display: block;
 	width: 294px;
